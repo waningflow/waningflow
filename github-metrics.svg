@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure-Samples/Cognitive-Speech-TTS</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Microsoft Text-to-Speech API sample code in several languages, part of Cognitive Services.</div>
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure-Samples/cognitive-services-speech-sdk</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sample code for the Microsoft Cognitive Services Speech SDK</div>
@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>2noise/ChatTTS</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Sep 06 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">A generative speech model for daily dialogue.</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2024, 09:06:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 09:03:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
